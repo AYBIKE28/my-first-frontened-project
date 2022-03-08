@@ -1,0 +1,32 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+
+}
+.rectangle{
+  width:16rem;
+  height: 25rem;
+  background-color: #fff;
+  border-radius: 15px;
+  margin:200px 600px;
+  text-align: center;
+}
+.square{
+  width: 15rem;
+  height: 13rem;
+  margin:  0.5rem 0.5rem;
+  border-radius: 15px;
+}
+.title{
+  font-family: 'Outfit-Semi-Bold', sans-serif;
+  font-size: 17px;
+  margin-left:0.5rem;
+  margin-right: 0.5rem;
+}
+.subtext{
+  font-size: 15px;
+  font-family: 'Outfit-Thin', sans-serif;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  margin-left: 0.25rem;
+  margin-right: 0.25rem,
+}
